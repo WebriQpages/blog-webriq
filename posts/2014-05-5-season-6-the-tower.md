@@ -1,10 +1,12 @@
 ---
-title:  "The Tower (Season 6)"
-date:   2014-05-05 10:33:56
-categories: season6 episodes
-shortdesc: Finn is not happy with his replacement arm.
+title: The Tower
 banner: /img/thetower.jpg
+shortdesc: Finn is not happy with his replacement arm.
+cmsUserSlug: the-tower-season-6
+date: 2014-05-05T10:33:56.000Z
+categories: season6 episodes
 ---
+
 The episode starts with Finn trying to make spaghetti with a bulky candy arm. His bulky arm doesn't help Finn and he starts destroying things and as he continues to mess things up, he gets frustrated and his candy arm explodes. [Jake](http://adventuretime.wikia.com/wiki/Jake)comes down stairs, hoping for the spaghetti<!--more-->, but instead sees the mess and tells him that he should just take his time and listen to his "Melon Heart." Finn then says he wants to go to space so he can take [his father](http://adventuretime.wikia.com/wiki/Martin)'s arm. Jake tells him not to do this but to just relax and think and that he's going to the store to buy replacement kitchen supplies for the ones Finn broke. Finn goes outside the tree fort and he lies on the ground. He starts to talk to himself and then suddenly he notices a pile of rocks forming behind him and that there is an odd, sightly transparent arm, where his real arm used to be. He then decides to use this arm to build a tower into space to find his dad.
 
 As Jake is returning home, the tower has grown considerably and [Princess Bubblegum](http://adventuretime.wikia.com/wiki/Princess_Bubblegum) is there and tells Jake that Finn's got a new arm, what she believes to be a telekinetic electro-emotional prosthesis and is dangerous and could hurt him and other people around him. Jake shakes off the notion and says what Finn's doing is healthy and he should just be left alone. As Finn continues his tower he enters the cloud house of a [Cloud person](http://adventuretime.wikia.com/wiki/Cloud_People). [She](http://adventuretime.wikia.com/wiki/Carroll) tells Finn to leave, and when he doesn't, blasts him with lightning with her gun. This moves the house out of the tower and the cloud person then says that Finn must be, "One of those swimmers," and leaves.
