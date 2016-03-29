@@ -3,7 +3,7 @@ title: Prime Factors For A Successful Mobile Application
 banner: /img/uploads/prime-factors_thumb.jpg
 shortdesc: "Mobile application usage is incessantly elevating with the increasing craze for smart devices, which can be compounded to their fabulous features and benefits. "
 cmsUserSlug: ""
-date: 2016-03-29T00:00:00+08:00
+date: 2016-03-29T17:00:00+08:00
 categories: mobile app
 ---
 
