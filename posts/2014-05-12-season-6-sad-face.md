@@ -1,10 +1,12 @@
 ---
-title:  "Sad Face (Season 6)"
-date:   2014-05-12 10:33:56
-categories: season6 episodes
-shortdesc: While Jake is asleep, his tail goes to work as a clown in a traveling bug circus.
+title: Sad Face
 banner: /img/sadface.jpg
+shortdesc: "While Jake is asleep, his tail goes to work as a clown in a traveling bug circus."
+cmsUserSlug: sad-face-season-6
+date: 2014-05-12T10:33:56.000Z
+categories: season6 episodes
 ---
+
 The episode begins with [Neptr](http://adventuretime.wikia.com/wiki/Neptr) and [BMO](http://adventuretime.wikia.com/wiki/BMO) spying on a sleeping Finn and Jake. Neptr asks BMO what is going to happen and asks the cause of their spying to which BMO tells him to just watch, as this happens once in a month and also promises it would happen.<!--more-->
 
 The scene changes to Jake and suddenly, his tail starts to wiggle. BMO points out this is what he called Neptr for, and they observe as Jake's tail starts to move. Neptr is fascinated by it, and they follow Jake's tail and spy on it. They sneak with the tail in the living room, and find that the tail has got a hat on his head. It further moves to get a cloth and packs some berries in it, and goes out of the treehouse. Neptr asks that where does the tail go, to which BMO replies it is none of their business.
