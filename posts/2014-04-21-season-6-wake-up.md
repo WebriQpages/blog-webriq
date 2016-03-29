@@ -1,10 +1,12 @@
 ---
-title:  "Wake Up (Season 6)"
-date:   2014-04-21 10:33:56
-categories: season6 episodes
-shortdesc: Prismo helps Finn and Jake access the Crystal Citadel to meet Finn's father.
+title: Wake Up
 banner: /img/wakeup.jpg
+shortdesc: "Prismo helps Finn and Jake access the Crystal Citadel to meet Finn's father."
+cmsUserSlug: wake-up-season-6
+date: 2014-04-21T10:33:56.000Z
+categories: season6 episodes
 ---
+
 The episode begins with [Jake](http://adventuretime.wikia.com/wiki/Jake) partying at Time Room with [Prismo](http://adventuretime.wikia.com/wiki/Prismo) and The [Cosmic Owl](http://adventuretime.wikia.com/wiki/Cosmic_Owl), [Death](http://adventuretime.wikia.com/wiki/Death), [Peppermint Butler](http://adventuretime.wikia.com/wiki/Peppermint_Butler), and [Party God](http://adventuretime.wikia.com/wiki/Party_God). Jake talks with Prismo after he runs out on nachos and they bump on Peppermint Butler and Death.<!--more--> Peppermint Butler asks Prismo if it is safe for Grob Glob Gob Grod to be taking "selfies" with an unconscious[Lich](http://adventuretime.wikia.com/wiki/The_Lich_(character)), to which Prismo replies that ever since he is stuck in the Time Room since his last wish, The Lich had been in a paralyzed state because he could not fulfill his ultimate goal of mass death. Jake then suddenly remembers about Finn, after asking [Clock Face](http://adventuretime.wikia.com/wiki/Clock_Face) what time it was and goes to the tree fort after giving a hi-five to Prismo.
 
 At the tree fort, Jake finds Finn in deep thought and asks Finn about it. Finn tells him that he found out about his human dad being held at a place called The Citadel and began wondering why he left him abandoned in the woods. As they tell about different ideas, Jake tells him to go to Prismo for help.
