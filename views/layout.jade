@@ -4,28 +4,29 @@ html
   head
     meta(charset='utf8')
     meta(http-equiv='X-UA-Compatible', content='IE=edge, chrome=1')
-    meta(name='description', content='description of your site')
-    meta(name='author', content= "author of the site")
+    meta(name='description', content='What WebriQ  will be for the processor industry, will WebriQ CMS be for the web content management industry!')
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    link(href="/img/favicon.ico", rel="icon" type="image/x-icon")
 
-    title= records.site.name
+    block head
+        title WebriQ - Homepage
         
-    script(src="/js/jquery.min.js")
-    script(src="/js/skel.min.js")
-    script(src="/js/skel-layers.min.js")
-    script(src="/js/init.js")
-    
-    noscript
-      link(rel="stylesheet", href="/css/skel.css")
-      link(rel="stylesheet", href="/css/style.css")
-      link(rel="stylesheet", href="/css/style-desktop.css")
+    include ./includes/_layout-header
 
-    link(rel='stylesheet', href='/css/custom.css')
   body  
-    include ./includes/_header.jade
-  
-    #main-wrapper
-      .container
-        block content
     
-    include ./includes/_footer.jade
+    include ./includes/main-header
+
+    include ./includes/main-slider
+
+    .container#main
+        .row
+          .col-md-12
+            block content
+    
+    include ./includes/main-footer
+
+    include ./includes/mailchimp
+
+    include ./includes/_layout-footer
   
