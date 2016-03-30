@@ -3,11 +3,11 @@ title: Post CMS Landscape
 banner: /img/uploads/landing-page2.jpg
 shortdesc: "Over the years, we've tried everything from Wordpress, Drupal, Squarespace, custom development app and we came all the way back to a Static approach."
 cmsUserSlug: ""
-date: 2016-03-30T00:00:00+08:00
+date: 2016-03-29T16:00:00.000Z
 categories: null
 ---
 
-## The challenge<br><br>
+## The challenge<br>
 
 Over the years, we've tried everything from Wordpress, Drupal, Squarespace, custom development app and we came all the way back to a Static approach.
 
@@ -19,7 +19,7 @@ In order to make this idea work at a large and on bigger projects, we needed to 
 
 And we needed to pull this all together in manageable online tools. 
 
-## Putting the Pieces Together<br><br>
+## Putting the Pieces Together<br>
 
 We decided to use our own [website](http://webriq.com/) as a testing ground for using these tools. We migrated our content in to a repository on Github. In ordeback into our Roots project, we used an extension: [roots-contentful](https://github.com/carrot/roots-contentful). Every time our website was compiled, roots-contentful would fetch data through Contentful's API and pass it into our view templates. It would also compile each individual blog post's HTML file using the [single page views](https://github.com/carrot/roots-contentful#single-entry-views) feature.
 
