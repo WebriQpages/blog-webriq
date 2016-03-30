@@ -4,18 +4,25 @@ block head
 	title= "WebriQ - " + entry.title
 
 block header
-	h1= entry.title
+	h1 Blog Post
 
 block content
 	article.box.post
-		div.image.featured(style={"background-image": "url(" + entry.banner + ")"})
+		h1.title= entry.title
+		p.info!= "<i class='fa fa-bookmark-o'></i> <i>By</i> <b>" + entry.author + "</b> | <i class='fa fa-clock-o'></i> Created on <b> " + dateFormat(entry.date, 'LL') + "</b>"
+
+		p.addthis_sharing_toolbox
+		img.image.featured(src= entry.banner)
 		p.lead= entry.shortdesc
 		!= entry.body
 		| <br>
 		| <br>
-		p <a href='//blog.webriq.com'> <i class="fa fa-long-arrow-left"></i> Go Back
+		p <a href='//blog.webriq.com'> <i class="fa fa-long-arrow-left"></i> &nbsp; Go Back </a>
 		| <br>
 		div#disqus_thread
+
+	script(type='text/javascript', src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56fa1295859c2100')
+
 
 	script(type='text/javascript').
 		/**

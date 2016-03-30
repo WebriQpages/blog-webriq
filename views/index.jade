@@ -11,7 +11,7 @@ block content
           .entry-body
             
             h3= post.title
-            p.date= "Posted " + dateFormat(post.date, 'LL')
+            p.date!= "<i class='fa fa-bookmark-o'></i> <i>By</i> <b>" + post.author + "</b> |<i class='fa fa-clock-o'></i> <i> Created on </i> <b> " + dateFormat(post.date, 'LL') + "</b>"
             p!= postExcerpt(post.body, 250)
             footer
               a.btn.btn-primary.btn-rounded.btn-xs(href= post.permalink) Continue Reading
