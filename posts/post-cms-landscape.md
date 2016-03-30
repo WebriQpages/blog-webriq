@@ -1,5 +1,6 @@
 ---
 title: Post CMS Landscape
+author: Philippe Bodart
 banner: /img/uploads/landing-page2.jpg
 shortdesc: "Over the years, we've tried everything from Wordpress, Drupal, Squarespace, custom development app and we came all the way back to a Static approach."
 cmsUserSlug: ""
