@@ -4,7 +4,7 @@ backend:
 
 production:
   backend:
-    name: webriq-blog
+    name: github-api
     repo: eljun/webriq-blog # Path to your Github repository
     branch: master # Branch to update (master by default)
 
