@@ -4,8 +4,8 @@ backend:
 
 production:
   backend:
-    name: github-api
-    repo: owner/repo # Path to your Github repository
+    name: webriq-blog
+    repo: eljun/webriq-blog # Path to your Github repository
     branch: master # Branch to update (master by default)
 
 media_folder: "assets/img/uploads" # Folder where user uploaded files should go
