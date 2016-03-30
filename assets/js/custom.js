@@ -42,6 +42,7 @@ $(document).ready(function () {
     //     expiryDays: 180
     // });
 
+    masonry('.blog-post');
 
 });
 
@@ -65,4 +66,19 @@ document.addEventListener('DOMContentLoaded', function(event) {
 // Activate WOW.js plugin for animation on scrol
 // new WOW().init();
 
-
+function masonry(element){
+    var container = $(element).isotope({
+      itemSelector: ".entries",
+      layoutMode: 'masonry'
+    });
+    container.imagesLoaded().progress(function(){
+        container.isotope('layout');
+    }); 
+    $(window).scroll(function () {    
+        if ($(window).scrollTop() >= $(document).height() - $(window).height() - 300) {             
+          container.imagesLoaded().progress(function(){
+          container.isotope('layout');
+          });                   
+        }
+    });
+}
