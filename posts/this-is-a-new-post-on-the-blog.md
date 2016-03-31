@@ -4,7 +4,7 @@ author: Philippe Bodart
 banner: /img/uploads/webfactories.jpg
 shortdesc: "Just a new blog post "
 cmsUserSlug: ""
-date: 2016-03-31T00:00:00+08:00
+date: 2016-03-30T16:00:00.000Z
 categories: null
 ---
 
