@@ -1,5 +1,5 @@
 ---
-title: This is a new Blog
+title: This is a another new Blog
 author: Philippe Bodart
 banner: /img/uploads/webfactories.jpg
 shortdesc: This is a new pretty blog entry
