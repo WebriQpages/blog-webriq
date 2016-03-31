@@ -68,4 +68,5 @@ Systems such as [Contentful](https://www.contentful.com/), [Prismic.io](https://
 
 The ultimate answer is an open-source Static CMS system without any lock-in to a particular static website generator, Git host or hosting platform. It will be a great way to push the limit of what kind of website you can build with modern static website technology.
 
+Thanks
   
