@@ -3,7 +3,7 @@
 var logo = '/img/logo@xs.png';
 
 
-// WARNING: Avoid using Document Read
+// WARNING: Avoid using Document Ready
 // because most of the items are fetch
 // via AJAX so your injection won't
 // Work properly. All your hacks put
