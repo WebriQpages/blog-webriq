@@ -40,6 +40,7 @@ body
 body.ember-application .cms-navbar-top
 	background #ffffff !important
 	border-bottom 1px solid $border-color !important
+	z-index 9
 
 body.ember-application .cms-navbar-top .cms-icon
 	color $font-color-navy
@@ -178,3 +179,16 @@ body.ember-application .cms-list-item .cms-icon-drag
 
 body.ember-application .cms-list-item .cms-collapse-control
 	top 22px
+	
+// Login Section
+
+body.ember-application .cms-login
+	background-color $background-lighter
+	box-shadow(0 1px 2px rgba(0, 0, 0, 0.1))
+	
+body.ember-application .cms-login-button
+	background-color $background-color !important
+	text-decoration none
+
+body.ember-application .cms-login-button:hover
+	background-color $background-dark !important
