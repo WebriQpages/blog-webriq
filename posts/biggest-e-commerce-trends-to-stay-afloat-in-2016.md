@@ -4,11 +4,9 @@ author: Samuel Dawson
 banner: /img/uploads/webriq.png
 shortdesc: "For the eCommerce industry, 2015 was a great year. E-commerce sales worldwide grew from $1.3 trillion in 2014 to $1.4 trillion in 2015. And, it is expected that retail commerce sales is going to be even better in 2016. In fact, according to an online report, “e-commerce sales will boost by 50 percent this year.” "
 cmsUserSlug: ""
-date: 2016-04-09T00:00:00+08:00
+date: 2016-04-08T16:00:00.000Z
 categories: null
 ---
-
-
 
 However,the continuous increase in e-commerce consumption by people has also led torise in the competition for retailers. The best way to stay abreast ofcompetition is to optimize your e-store according to the latest trends. Now,when it comes to e-commerce, several on-going trends are expected to stayafloat in 2016. 
 
@@ -16,7 +14,7 @@ However,the continuous increase in e-commerce consumption by people has also led
 
 **1.Wider Adoption of Responsive Design**
 
-Nearly 66 percent of user's time spent on e-shops is done using mobile devices. And, 61 percent of consumers abandon an e-commerce site if it isn’t mobile-friendly. Thus, it's imperative that your online shop must be optimized for Smartphonesand tablets. Put it simply, having a site adjusted to multiple devices withdifferent screen sizes has become a hard-to-ignore priority than ever before.This clearly suggests that the adoption of responsive design is only going togrow rapidly. 
+Nearly 66 percent of user's time spent on e-shops is done using mobile devices. And, 61 percent of consumers abandon an e-commerce site if it isn’t mobile-friendly. Thus, it's imperative that your online shop must be optimized for Smartphones and tablets. Put it simply, having a site adjusted to multiple devices withdifferent screen sizes has become a hard-to-ignore priority than ever before.This clearly suggests that the adoption of responsive design is only going togrow rapidly. 
 
 Despite offering a streamlined viewing experience, responsive design has beenimplemented in only nine percent e-commerce sites. However, realizing thesignificance of responsive design, more and more e-commerce website owners areturning to RWD approach. 
 
