@@ -5,7 +5,7 @@ banner: /img/uploads/flat-1-custom.jpg
 shortdesc: "A couple of years ago the answer was most likely everybody, now the answer is almost nobody. Why is that?"
 cmsUserSlug: ""
 date: 2016-03-29T16:00:00.000Z
-categories: cms development
+categories: "Static Websites, Static CMS System, Flat File CMS System"
 ---
 
 ## When Static Was It <br><br>
@@ -68,5 +68,6 @@ Systems such as [Contentful](https://www.contentful.com/), [Prismic.io](https://
 
 The ultimate answer is an open-source Static CMS system without any lock-in to a particular static website generator, Git host or hosting platform. It will be a great way to push the limit of what kind of website you can build with modern static website technology.
 
-Thanks
+Here is a initial attempt to tackle a Static CMS system
+[WebriQ Static Web CMS Application](http://app.webriq.com/auth/register)
   
