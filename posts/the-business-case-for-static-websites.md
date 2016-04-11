@@ -4,11 +4,11 @@ author: Philippe Bodart
 banner: /img/uploads/responsive-web-design.jpg
 shortdesc: "For years websites have been database driven. It is time to relook at our approach and implement technologies that are fully adapted to a mobile environment. "
 cmsUserSlug: ""
-date: 2016-04-11T00:00:00+08:00
+date: 2016-04-10T16:00:00.000Z
 categories: null
 ---
 
-**The current web is a mess. Every week we go to Hackernews and follow a broken link. Not long ago 12 million Drupal sites were infected with malware. 79% of allWordpress sites are vulnerable to known exploits.**
+**The current web is a mess. Every week we go to Hackernews and follow a broken link. Not long ago 12 million Drupal sites were infected with malware. 79% of all Wordpress sites are vulnerable to known exploits.**
 
 The emergence of mobile means a lot of slow loading sites with towering bouncerates and loss of business to follow.
 
@@ -16,7 +16,7 @@ We should do better. We must actually. Because we can.
 
 Static websites have always been faster, safer, simpler and cheaper.
 
-It’s just that browsers and hosting services weren’t good enough, so there were too many compromises. Making the slow, vulnerable and expensive traditional “dynamic”sites the best alternative.
+It’s just that browsers and hosting services weren’t good enough, so there were too many compromises. Making the slow, vulnerable and expensive traditional “dynamic” sites the best alternative.
 
 But no more. The browser is all grown-up, and CDNs have really seen the light of day.
 
@@ -24,7 +24,7 @@ We want static sites to be as easy to make and to update as possible, while stil
 
 Static websites are faster, safer, simpler and cheaper. Here we explain how. Static sites are simple, but today they can do almost anything a traditional (dynamic)site can. 
 
-A traditional (Wordpress or Drupal) site needs to be hosted on a server, and itneeds to render every single time a user visits. The difference with a “static” site is that you build it BEFORE you deploy it. So what’s live are only already rendered files. So there are no so-called movable parts live and you get tohost the site on a CDN. (Content Delivery Network). Anything that still needs rendering will be done so by the browser. Pretty cool if you think about it.
+A traditional (Wordpress or Drupal) site needs to be hosted on a server, and it needs to render every single time a user visits. The difference with a “static” site is that you build it BEFORE you deploy it. So what’s live are only already rendered files. So there are no so-called movable parts live and you get tohost the site on a CDN. (Content Delivery Network). Anything that still needs rendering will be done so by the browser. Pretty cool if you think about it.
 
 This all means a number of things. All of them good if you are going static.
 
@@ -42,7 +42,7 @@ There are two exceptions - sites that absolutely need a database as a back-end a
 
 Building a static site takes a while - typically perhaps 10 to 20 seconds - and that’s too long a wait if you are updating lets say every minute.
 
-Have a look at how we have automated the building, management and updating of a typical Portfolio website at (http://app.webriq.com/auth/register/ "REGISTER")
+Have a look at how we have automated the building, management and updating of a typical Portfolio website at [WEBRIQ APP](http://app.webriq.com/auth/register)
 
 
 
