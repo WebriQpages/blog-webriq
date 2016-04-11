@@ -4,7 +4,7 @@ author: Philippe Bodart
 banner: /img/uploads/untitled5.jpg
 shortdesc: "A look at an APP that enables you to build, manage and update Static websites, much in the same way as you would set-up your Wordpress site"
 cmsUserSlug: ""
-date: 2016-04-11T00:00:00+08:00
+date: 2016-04-10T16:00:00.000Z
 categories: null
 ---
 
@@ -22,7 +22,7 @@ The term _static site_ describes a website with pre-existing content and availab
 
  WHEN TO USE A STATIC WEBSITE
 
-As the [LAMP stack], i.e Wordpress and it's lookalikes (https://en.wikipedia.org/wiki/LAMP_(software_bundle)) grew in popularity, its use in creating websites became common and many sites that did not have particular needs to be dynamic were created **dynamic by default**. This is not the best approach.
+As the [LAMP stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) , i.e Wordpress and it's lookalikes grew in popularity, its use in creating websites became common and many sites that did not have particular needs to be dynamic were created **dynamic by default**. This is not the best approach.
 
  Imagine you have a website that presents widget information, and you have 1000 widgets in your database. It would be easy to default to creating a dynamic website with a script taking the widget name as input and displaying specific information about that widget when the site was hit. An alternative is to use a static website generator to create the 1000 different pages (one for each widget) and use those to show the widget information. If the widgets ever update, the site may be re-generated to update the content. Now that static website generators have the capability to effortlessly rebuild websites around new content, adding new content to static websites may be configured to as a turnkey operation.
 
