@@ -4,7 +4,7 @@ author: Philippe Bodart
 banner: /img/uploads/untitled5.jpg
 shortdesc: "A look at an APP that enables you to build, manage and update Static websites, much in the same way as you would set-up your Wordpress site"
 cmsUserSlug: ""
-date: 2016-04-10T16:00:00.000Z
+date: 2016-04-12T00:00:00+08:00
 categories: null
 ---
 
