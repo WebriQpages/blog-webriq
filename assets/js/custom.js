@@ -42,7 +42,8 @@ $(document).ready(function () {
     //     expiryDays: 180
     // });
 
-    masonry('.blog-post');
+    
+    // masonry('.blog-post');
 
 });
 
