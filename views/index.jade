@@ -12,9 +12,11 @@ block content
             
             h1= post.title
             p.date!= "<i class='fa fa-bookmark-o'></i> <i>By</i> <b>" + post.author + "</b> | <i class='fa fa-clock-o'></i> <i> Created on </i> <b> " + dateFormat(post.date, 'LL') + "</b>"
-            p!= postExcerpt(post.body, 250)
+            p!= postExcerpt(post.body, 240)
             footer
               a.btn.btn-primary.btn-rounded.btn-xs(href= post.permalink) Continue Reading
+
+
   div.col-md-4.sidebar-right
     div.entries.col-md-12
       div.entry-header
