@@ -32,7 +32,8 @@ Nothing can compare to the simplicity of knowing your site can handle all the tr
 
 Better meaning easier to build. Easier to debug. Easier to change and improve. Easier to keep running in the face of whatever life is going to throw at your business. Oh, and it’s faster for your users, it can not be hacked, and never has to be updated, unless it needs change.
 
-Try it out on [DEMO](http://demo.webriq.com/) and [ADMIN](http://demo/webriq.com/admin) your site with user name [demo@webriq.com](mailto:demo@webriq.com) and password demo!@#1234**
+### **Try it out on [DEMO](http://demo.webriq.com/) and [ADMIN](http://demo/webriq.com/admin) your site with user name [demo@webriq.com](mailto:demo@webriq.com) and password demo!@#1234**
+
 
 Static websites are the future. 
 If you want some neat APPS that can enhance your Static website, check out [EAGER](http://eager.io)
