@@ -1,7 +1,7 @@
 ---
 title: Building Static Websites
 author: Philippe Bodart
-banner: /img/uploads/images3.jpg
+banner: /img/uploads/images4.jpg
 shortdesc: Why wait until next year. Build your Static website now without the need of a database or a web server.
 cmsUserSlug: ""
 date: 2016-04-24T00:00:00+08:00
