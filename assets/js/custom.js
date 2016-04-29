@@ -53,8 +53,8 @@ $(document).ready(function () {
 //         userCollapseText: 'less'
 // });
 
-// _slaask.init('a2185cf7997e55eb9484fc90fe78066a');
-_slaask.init('95426c2790f8f6fed51b9caab536ed57');
+_slaask.init('a2185cf7997e55eb9484fc90fe78066a');
+
 // Activating Cookies
 
 
