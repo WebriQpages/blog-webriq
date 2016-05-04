@@ -42,7 +42,7 @@ $(document).ready(function () {
     //     expiryDays: 180
     // });
 
-    
+
     // masonry('.blog-post');
 
 });
@@ -54,6 +54,7 @@ $(document).ready(function () {
 // });
 
 _slaask.init('a2185cf7997e55eb9484fc90fe78066a');
+
 // Activating Cookies
 
 
@@ -74,12 +75,12 @@ function masonry(element){
     });
     container.imagesLoaded().progress(function(){
         container.isotope('layout');
-    }); 
-    $(window).scroll(function () {    
-        if ($(window).scrollTop() >= $(document).height() - $(window).height() - 300) {             
+    });
+    $(window).scroll(function () {
+        if ($(window).scrollTop() >= $(document).height() - $(window).height() - 300) {
           container.imagesLoaded().progress(function(){
           container.isotope('layout');
-          });                   
+          });
         }
     });
 }
