@@ -4,7 +4,7 @@ author: Philippe Bodart
 banner: /img/uploads/images.jpg
 shortdesc: The reasons why a CMS system for Static websites is not a contradiction in terms
 cmsUserSlug: ""
-date: 2016-05-16T00:00:00+08:00
+date: 2016-05-15T16:00:00.000Z
 categories: null
 ---
 
@@ -32,7 +32,7 @@ Offers webhooks that you can use to rebuild your static site in a fully automate
 
 On the not so positive site, the platforms are proprietary (as opposed to open source), do not come cheap, have a lot of complexity that more often not needed then needed and have a relatively high cost of ownership.
 
-## **A better alternative is a [FREE CMS](http://app.webriq.com/auth/regsiter) for your static website**
+## **A better alternative is a [FREE CMS](http://app.webriq.com/auth/register) for your static website**
 
 Deploy modern static websites with our automated open source platform. Add best practices like SSL, CDN distribution,and continuous deployment with a single click.
 
