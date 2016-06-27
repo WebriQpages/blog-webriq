@@ -92,7 +92,7 @@ There is no server-side processing and no database to connect to, meaning that t
 
  _Hosting_
 
-Since no server-side language is required, hosting requires no complicated setup or maintenance, making it cheap and easy. In fact, there are even free options, like [GitHubpages or](https://pages.github.com/) [Surge,](https://surge.sh/) for instance. Hosting and deployment will be covered in follow onposts. 
+Since no server-side language is required, hosting requires no complicated setup or maintenance, making it cheap and easy. In fact, there are even free options, like [GitHub pages or](https://pages.github.com/) [Surge,](https://surge.sh/) for instance. Hosting and deployment will be covered in follow onposts. 
 
  _Security_
 
