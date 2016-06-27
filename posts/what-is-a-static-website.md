@@ -102,7 +102,7 @@ _Content versioning_
 
 Since your entire site, from configuration to content, is file-based, it is very easy to keep all aspects of it within a version control system like Git. This can be especially advantageous for things like documentation that you may want to allow community contributions, forexample, using pull requests on GitHub.
 
-**To becontinued in later posts.**
+**To be continued in later posts.**
 
 Get a sneak preview on [WebriQ'sWeb Content Management System for Static websites](http://www.app.webriq.com/sites/create) or just go through a [QUICKDEMO](http://app.webriq.com/help/page/demo/howto)
 
