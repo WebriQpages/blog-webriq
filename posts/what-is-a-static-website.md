@@ -104,6 +104,6 @@ Since your entire site, from configuration to content, is file-based, it is very
 
 **To be continued in later posts.**
 
-Get a sneak preview on [WebriQ'sWeb Content Management System for Static websites](http://www.app.webriq.com/sites/create) or just go through a [QUICKDEMO](http://app.webriq.com/help/page/demo/howto)
+Get a sneak preview on [WebriQ'sWeb Content Management System for Static websites](http://www.app.webriq.com/sites/create) or just go through a [QUICK DEMO](http://app.webriq.com/help/page/demo/howto)
 
 **This post is an extract from the Book by Brian Rinaldi – Static Site **Generators.**** 
