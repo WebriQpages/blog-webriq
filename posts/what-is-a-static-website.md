@@ -4,7 +4,7 @@ author: Philippe Bodart
 banner: /img/uploads/untitled.png
 shortdesc: "A series of post on the why, how and when of Static Websites"
 cmsUserSlug: ""
-date: 2016-06-27T00:00:00+08:00
+date: 2016-06-26T16:00:00.000Z
 categories: null
 ---
 
@@ -22,7 +22,7 @@ Creating new pages typically required copying and tweaking existing pages. As th
 
 In addition to these issues, there was the limitation that if your site required dynamic features like comments or forums, for example, this was simply not possible in a pure static site.
 
-## **## The Dynamic Site Era**
+## The Dynamic Site Era
 
 Dynamic sites seemed to fix these issues. Nontechnical content creators could create and update pages via backend forms without the need to understand the specifics of website development tools or HTML. Since the content and pages were all driven from a database, navigation could be generated automatically. In addition, by definition, dynamic sites allow for dynamic features such as forums or comments.
 
