@@ -41,7 +41,7 @@ It is a command-line tool used for developing static websites. While simplifying
 
 Written in Ruby, Nanoc is a powerful static website generator that is ideal for creating any kind of website, from personal portfolios to large business websites. Nanoc is highly flexible site generator helps you pick your favorite languages and extensions. It is easy to mix and match Haml, Sass, CoffeeScript, ERB, and Less, in order to minify CSS and JavaScript.
 
-*### All these static website generators will help you highly functional static websites.*
+### All these static website generators will help you highly functional static websites.
 
 ---
 
