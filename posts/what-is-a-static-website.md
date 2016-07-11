@@ -10,7 +10,7 @@ categories: null
 
 ## **A Little Background**
 
-There’s been a lot of talk recently about [STATIC SITES](http://app.webriq.com/sites/create) and the new generation of tools used to create them,commonly referred to as “static site generators” or “static site engines.” As with any new technology, it can sometimes be hard to differentiate the hype from the reality. In a series of blog post aims to give you a broad understanding of the technology: what it is and whereit best applies. First, however,we need to define what static sites are and where they came from.
+There’s been a lot of talk recently about [STATIC SITES](http://app.webriq.com/sites/create) and the new generation of tools used to create them,commonly referred to as “**static site generators” or “static site engines.” As with any new technology, it can sometimes be hard to differentiate the hype from the reality. In a series of blog post aims to give you a broad understanding of the technology: what it is and whereit best applies. First, however,we need to define what static sites are and where they came from.
 
 The term “static site” is an interesting one if you think about it, as it defines itself by what it lacks. The “static” aspect doesn’t so much describe a feature as the absence of one: dynamic page rendering. Once upon a time, probably before we commonly used the term “static site,” this would have been considered a weakness.
 
