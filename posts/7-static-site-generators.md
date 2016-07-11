@@ -14,6 +14,7 @@ Today, websites are becoming smoother, faster and more flexible, as users love f
 
 ### **Here are top 7 static site generators preferred by the most developers:**
 
+
 #### **Jekyll**
 
 Powered by Ruby, it is a user-friendly static website generator. You can import content from WordPress, Drupal, Tumblr, RSS and CSV formats while using Jekyll. With its built-in server, you can evenbuild your personal static server from its template and source code. It acts as a local web server and generates the HTML, CSS & JavaScript files fromMarkdown, templates, Sass, or CoffeeScript files. With the help of templates, layout controls, and a large number of configuration options, it is easy to create the blog post. 
@@ -40,6 +41,7 @@ It is a command-line tool used for developing static websites. While simplifying
 #### **Nanoc**
 
 Written in Ruby, Nanoc is a powerful static website generator that is ideal for creating any kind of website, from personal portfolios to large business websites. Nanoc is highly flexible site generator helps you pick your favorite languages and extensions. It is easy to mix and match Haml, Sass, CoffeeScript, ERB, and Less, in order to minify CSS and JavaScript.
+
 
 #### All these static website generators will help you highly functional static websites.
 
