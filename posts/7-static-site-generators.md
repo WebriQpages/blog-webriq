@@ -1,7 +1,7 @@
 ---
 title: 7 Static Site Generators
 author: Philippe Bodart
-banner: /img/uploads/7-static-site-generators1.jpg
+banner: /img/uploads/drupal-adding-article.jpg
 shortdesc: "The new generation of tools used to create them, commonly  referred to as “static site generators” or “static site engines.”"
 cmsUserSlug: ""
 date: 2016-07-11T01:00:00+08:00
@@ -34,7 +34,7 @@ In the case of content-focused web pages, dynamic sites often took the form of a
 To this day, most of the content published on the Web runs through some form of content management system. Popular open source options include [Drupal](http://drupal.com/), [Joomla](http://www.joomla.org/), and [Typo3](http://typo3.org/) (see
 Figure 1-1). Nowadays, these systems typically handle much more than simply content creation and publication, with features such as complex roles and access control, workflow management, document management, and syndication.
 
-<img src="/img/uploads/7-static-site-generators2.jpg  ">
+<img src="/img/uploads/7-static-site-generators2.jpg ">
 
 _Figure 1-1. Adding an article in the Drupal CMS (source:
 Drupal.org)._
