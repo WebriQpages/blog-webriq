@@ -112,6 +112,8 @@ include:
 
 • [Discourse for](http://www.discourse.org/) forums
 
+There are many more covering a full range of typical site requirements. There even BaaS (backend as a service) solutions like [Parse](https://parse.com/) or [Kinvey](http://www.kinvey.com/) that offer APIs that allow developers to pull any form of arbitrary dynamic data into a static page.
+
 ### Overview of Popular Services
 
 If you’re interested in some of the services listed above as well as implementations, read an article on the topic called [“Moving to Static and Keeping YourToys”.](http://modernweb.com/2013/12/16/moving-to-static-and-keeping-your-toys/)
