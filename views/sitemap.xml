@@ -4,8 +4,12 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 <url>
   <loc>https://www.blog.webriq.com/</loc>
+</url>
+<url>
+  <loc>https://www.blog.webriq.com/posts/7-static-site-generators</loc>
 </url>
 <url>
   <loc>https://www.blog.webriq.com/posts/what-is-a-static-website</loc>
@@ -33,8 +37,5 @@
 </url>
 <url>
   <loc>https://www.blog.webriq.com/posts/biggest-e-commerce-trends-to-stay-afloat-in-2016</loc>
-</url>
-<url>
-  <loc>https://www.blog.webriq.com/posts/post-cms-landscape</loc>
 </url>
 </urlset>
