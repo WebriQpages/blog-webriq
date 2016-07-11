@@ -195,7 +195,7 @@ _Security_
 database to hack. Basically, as long as the files on your host
 are secure, your static site is secure.
 
-## _Content versioning_
+_Content versioning_
 
 * Since your entire site, from configuration to content, is file-
 based, it is very easy to keep all aspects of it within a version
