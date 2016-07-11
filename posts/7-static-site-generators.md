@@ -32,11 +32,11 @@ be generated automatically. In addition, by definition, dynamic sites allow for 
 In the case of content-focused web pages, dynamic sites often took the form of a content management system (CMS). These could be custom built to the needs of the site or, very frequently, selected from a number of commercial or open source options.
 
 To this day, most of the content published on the Web runs through some form of content management system. Popular open source options include [Drupal](http://drupal.com/), [Joomla](http://www.joomla.org/), and [Typo3](http://typo3.org/) (see
-Figure 1-1). Nowadays, these systems typically handle much more than simply content creation and publication, with features such as complex roles and access control, workflow management, document management, and syndication.
+**Figure 1-1**). Nowadays, these systems typically handle much more than simply content creation and publication, with features such as complex roles and access control, workflow management, document management, and syndication.
 
 <img src="/img/uploads/drupal-adding-article.jpg">
 
-_Figure 1-1. Adding an article in the Drupal CMS (source:
+_**Figure 1-1**. Adding an article in the Drupal CMS (source:
 Drupal.org)._
 
 These additional features lead to the biggest issue with dynamic sites, which is that the solution is often more complex than the problem. By virtue of its need to cater to a broad set of customers, a pre-built CMS often has a steep learning curve for both developers and content creators. Meanwhile, a custom CMS requires both extensive
@@ -67,7 +67,7 @@ management system.
 
 <img src="http://res.cloudinary.com/https-www-webriq-com/image/upload/v1468220336/WordPress-dashboard_y2gef5.jpg ">
 
-_Figure 1-2. The WordPress dashboard (source:WordPress.org)._
+_**Figure 1-2**. The WordPress dashboard (source:WordPress.org)._
 
 Nonetheless, over time, WordPress has begun to gain some
 of the complexity of a typical CMS, and it is generally lumped
@@ -87,7 +87,7 @@ fact, “Just a blogging platform.”
 
 <img src="http://res.cloudinary.com/https-www-webriq-com/image/upload/v1468220578/welcome-to-ghost_fcgoug.jpg">
 
-_Figure 1-3. Ghost offers an intentionally simple and sparse editor (source: Ghost.org)._
+_**Figure 1-3.** Ghost offers an intentionally simple and sparse editor (source: Ghost.org)._
 
 ## Static Pages Get A New Life
 
