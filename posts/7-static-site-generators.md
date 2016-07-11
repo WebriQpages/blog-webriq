@@ -65,7 +65,7 @@ Wordpress is used on approximately 23.9% of the top 10
 million sites, a percentage that dwarfs every other content
 management system.
 
-<img src="/img/uploads/7-static-site-generators2.jpg  ">
+<img src="http://res.cloudinary.com/https-www-webriq-com/image/upload/v1468220336/WordPress-dashboard_y2gef5.jpg ">
 
 _Figure 1-2. The WordPress dashboard (source:WordPress.org)._
 
@@ -85,7 +85,7 @@ created new projects, like [Ghost](https://ghost.org/) for example (see **Figure
 to get back to the basics of just blogging. Ghost’s tagline is, in
 fact, “Just a blogging platform.”
 
-<img src="/img/uploads/7-static-site-generators2.jpg  ">
+<img src="http://res.cloudinary.com/https-www-webriq-com/image/upload/v1468220578/welcome-to-ghost_fcgoug.jpg">
 
 _Figure 1-3. Ghost offers an intentionally simple and sparse editor (source: Ghost.org)._
 
@@ -112,7 +112,9 @@ include:
 
 • [Discourse for](http://www.discourse.org/) forums
 
-If you’re interested in some of the services listed above as well as implementations, read an article on the topic called [“Movingto](http://modernweb.com/2013/12/16/moving-to-static-and-keeping-your-toys/)[Staticand Keeping YourToys”.](http://modernweb.com/2013/12/16/moving-to-static-and-keeping-your-toys/)
+### Overview of Popular Services
+
+If you’re interested in some of the services listed above as well as implementations, read an article on the topic called [“Moving to Static and Keeping YourToys”.](http://modernweb.com/2013/12/16/moving-to-static-and-keeping-your-toys/)
 
 ## Defining a Static Website
 
