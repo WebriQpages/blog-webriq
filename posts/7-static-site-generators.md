@@ -10,100 +10,40 @@ categories: ""
 
 ## **A Little Background**
 
-There’s been a lot of talk recently about [STATIC SITES](http://app.webriq.com/sites/create)  and the
-new generation of tools used to create them, commonly
-referred to as “static site generators” or “static site engines.”
-As with any new technology, it can sometimes be hard to
-differentiate the hype from the reality. This book aims to give
-you a broad understanding of the technology: what it is
-and whereit best applies. First, however, we need to define
-what static sites are and where they came from.
+There’s been a lot of talk recently about [STATIC SITES] http://app.webriq.com/sites/create)  and the new generation of tools used to create them, commonly referred to as “static site generators” or “static site engines.” As with any new technology, it can sometimes be hard to differentiate the hype from the reality. This book aims to give
+you a broad understanding of the technology: what it is and whereit best applies. First, however, we need to define what static sites are and where they came from.
 
-The term “static site” is an interesting one if you think about it,
-as it defines itself by what it lacks. The “static” aspect
-doesn’t so much describe a feature as the absence of one:
-dynamic page rendering. Once upon a time, probably before
-we commonly used the term “static site,” this would have
-been considered a weakness.
+The term “static site” is an interesting one if you think about it, as it defines itself by what it lacks. The “static” aspect doesn’t so much describe a feature as the absence of one: dynamic page rendering. Once upon a time, probably before we commonly used the term “static site,” this would have been considered a weakness.
 
-Those of us who’ve been working in web development for
-some time probably recall building static sites using tools like
-Dreamweaver, HomeSite, or (heaven forbid) FrontPage. The
-content on these pages could only be changed by manually
-altering the existing site files and replacing the files on the
-server via FTP.
+Those of us who’ve been working in web development for some time probably recall building static sites using tools like Dreamweaver, HomeSite, or (heaven forbid) FrontPage. The content on these pages could only be changed by manually altering the existing site files and replacing the files on the server via FTP.
 
-There were a number of issues with this process. Adding
-content to the site required a moderately high level of
-technical knowledge, either knowledge of the specific tool
-used to design and build the site or of HTML to handcode
-the site. One also needed to understand how to deploy the
-site to a host via FTP, which isn’t necessarily straightforward
-for nontechnical users. This meant that the content creators,
-who are frequently nontechnical, could not directly or
-easily contribute to the site and required the assistance of a
-web developer to add new content.
+There were a number of issues with this process. Adding content to the site required a moderately high level of technical knowledge, either knowledge of the specific tool used to design and build the site or of HTML to handcode the site. One also needed to understand how to deploy the site to a host via FTP, which isn’t necessarily straightforward
+for nontechnical users. This meant that the content creators, who are frequently nontechnical, could not directly or easily contribute to the site and required the assistance of a web developer to add new content.
 
-Creating new pages typically required copying and tweaking
-existing pages. As the site grew, maintaining proper
-navigation and links typically became both tedious and
-extremely error prone. Some tools offered features like
-templates that tried to solve these issues, but these could be
-complicated or cumbersome to create.
+Creating new pages typically required copying and tweaking existing pages. As the site grew, maintaining proper navigation and links typically became both tedious and extremely error prone. Some tools offered features like templates that tried to solve these issues, but these could be complicated or cumbersome to create.
 
-In addition to these issues, there was the limitation that if
-your site required dynamic features like comments or
-forums, for example, this was simply not possible in a purely
-static site.
+In addition to these issues, there was the limitation that if your site required dynamic features like comments or forums, for example, this was simply not possible in a purely static site.
 
 ## The Dynamic Site Era
 
-Dynamic sites seemed to fix these issues. Nontechnical
-content creators could create and update pages via
-backend forms without the need to understand the specifics
-of website development tools or HTML. Since the content
-and pages were all driven from a database, navigation could
-be generated automatically. In addition, by definition,
-dynamic sites allow for dynamic features such as forums or
-comments.
+Dynamic sites seemed to fix these issues. Nontechnical content creators could create and update pages via backend forms without the need to understand the specifics of website development tools or HTML. Since the content and pages were all driven from a database, navigation could
+be generated automatically. In addition, by definition, dynamic sites allow for dynamic features such as forums or comments.
 
-In the case of content-focused web pages, dynamic sites
-often took the form of a content management system (CMS).
-These could be custom built to the needs of the site or, very
-frequently, selected from a number of commercial or open
-source options.
+In the case of content-focused web pages, dynamic sites often took the form of a content management system (CMS). These could be custom built to the needs of the site or, very frequently, selected from a number of commercial or open source options.
 
-To this day, most of the content published on the Web runs
-through some form of content management system. Popular
-open source options include [Drupal](http://drupal.com/), [Joomla](http://www.joomla.org/), and [Typo3](http://typo3.org/) (see
-Figure 1-1). Nowadays, these systems typically handle
-much more than simply content creation and publication,
-with features such as complex roles and access control,
-workflow management, document management, and
-syndication.
+To this day, most of the content published on the Web runs through some form of content management system. Popular open source options include [Drupal](http://drupal.com/), [Joomla](http://www.joomla.org/), and [Typo3](http://typo3.org/) (see
+Figure 1-1). Nowadays, these systems typically handle much more than simply content creation and publication, with features such as complex roles and access control, workflow management, document management, and syndication.
 
 <img src="/img/uploads/7-static-site-generators2.jpg  ">
 
 _Figure 1-1. Adding an article in the Drupal CMS (source:
 Drupal.org)._
 
-These additional features lead to the biggest issue with
-dynamic sites, which is that the solution is often more
-complex than the problem. By virtue of its need to cater to a
-broad set of customers, a pre-built CMS often has a steep
-learning curve for both developers and content creators.
-Meanwhile, a custom CMS requires both extensive
-development efforts and access to a developer should
-issues or necessary changes arise.
+These additional features lead to the biggest issue with dynamic sites, which is that the solution is often more complex than the problem. By virtue of its need to cater to a broad set of customers, a pre-built CMS often has a steep learning curve for both developers and content creators. Meanwhile, a custom CMS requires both extensive
+development efforts and access to a developer should issues or necessary changes arise.
 
-Hosting dynamic sites is complicated by the need for
-database storage (and backups) as well as support for
-whatever dynamic language the site is built upon (PHP, Ruby,
-etc.). Factor in the need for regular updates to the dynamic
-language, database solution and even the CMS software
-itself, and it becomes rather obvious that, while dynamic
-sites solve many difficult problems, they bring with them their
-own set of complications.
+Hosting dynamic sites is complicated by the need for database storage (and backups) as well as support for whatever dynamic language the site is built upon (PHP, Ruby, etc.). Factor in the need for regular updates to the dynamic language, database solution and even the CMS software
+itself, and it becomes rather obvious that, while dynamic sites solve many difficult problems, they bring with them their own set of complications.
 
 ## The Rise of Blog Engines
 
