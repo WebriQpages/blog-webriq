@@ -1,7 +1,7 @@
 ---
 title: 7 Static Site Generators
 author: Philippe Bodart
-banner: /img/uploads/drupal-adding-article.jpg
+banner: /img/uploads/7-static-site-generators1.jpg
 shortdesc: "The new generation of tools used to create them, commonly  referred to as “static site generators” or “static site engines.”"
 cmsUserSlug: ""
 date: 2016-07-11T01:00:00+08:00
