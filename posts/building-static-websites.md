@@ -1,10 +1,10 @@
 ---
 title: Building Static Websites
 author: Philippe Bodart
-banner: /img/uploads/images4.jpg
+banner: /img/uploads/building-static-websites.jpg
 shortdesc: Why wait until next year. Build your Static website now without the need of a database or a web server.
 cmsUserSlug: ""
-date: 2016-04-24T00:00:00+08:00
+date: 2016-04-23T16:00:00.000Z
 categories: null
 ---
 
@@ -32,7 +32,7 @@ Nothing can compare to the simplicity of knowing your site can handle all the tr
 
 Better meaning easier to build. Easier to debug. Easier to change and improve. Easier to keep running in the face of whatever life is going to throw at your business. Oh, and it’s faster for your users, it can not be hacked, and never has to be updated, unless it needs change.
 
-### **Try it out on [DEMO](http://demo.webriq.com/) and [ADMIN](http://demo/webriq.com/admin) your site with user name [demo@webriq.com](mailto:demo@webriq.com) and password demo!@#1234**
+### **Try it out on [DEMO](http://demo.webriq.com/) and [ADMIN](http://demo.webriq.com/admin) your site with user name [demo@webriq.com](mailto:demo@webriq.com) and password demo!@#1234**
 
 
 Static websites are the future. 

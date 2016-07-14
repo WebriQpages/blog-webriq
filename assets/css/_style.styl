@@ -449,34 +449,12 @@ h1
     margin auto
 
 .social-icon
+  li
+    padding-right 3px !important
+    padding-left 3px !important
   a
-    background #fff
     text-align center
-    font-size 18px
-    line-height 40px
-    color #fff
-    height 44px
-    width 44px
-    display block
-    border-radius 50px
-    border 2px solid transparent
-    .fa-facebook
-      color #368af2
-    .fa-twitter
-      color #40bff5
-    .fa-google-plus
-      color #eb5e4c
-    .fa-pinterest
-      color #e03037
-    .fa-file-text-o
-      color #78909C
-    .fa-rss
-      color #faa33d
-    &:hover
-      background transparent
-      border 2px solid #fff
-      .fa
-        color #fff
+    
 
 .img-small
   height 88px
@@ -560,7 +538,7 @@ li
     padding-right 85px
     margin-bottom 35px
   h1
-    font-size 48px
+    font-size 36px
   .about-us
     li
       margin 18px 0
@@ -693,6 +671,8 @@ fieldset[disabled] .btn-primary.active
     &.btn-inverted
       padding-right 55px
       padding-left 55px
+      width 260px
+      max-width 100%
       &.newsletter
         padding-right 88px
         padding-left 88px
@@ -1214,6 +1194,14 @@ fieldset[disabled] .btn-primary.active
     top 150px
 
   .navbar-default
+    .nav
+      li
+        a
+          padding-right 8px
+          padding-left 8px
+  .navbar-brand>img
+    width 150px !important
+  .navbar-default
     .navbar-toggle
       top 15px
       border none
@@ -1223,6 +1211,8 @@ fieldset[disabled] .btn-primary.active
     background #fff
     .navbar-nav > li a
       color #757575 !important
+      padding-right 10px
+      padding-left 10px
     .navbar-nav > .active > a,
     .navbar-nav > .active > a:hover
       color $blue !important
@@ -1246,6 +1236,7 @@ fieldset[disabled] .btn-primary.active
   .contact .col-lg-7,
   .contact .col-md-6
     padding-left 15px !important
+  
 
 
 @media (max-width: 768px)
@@ -1328,6 +1319,9 @@ fieldset[disabled] .btn-primary.active
   .contact .quicklinks
     margin 0 auto
 
+.slaask-widget
+  z-index: 9999999999 !important
+
 #slaask-button
   bottom 55px
 
@@ -1335,6 +1329,11 @@ fieldset[disabled] .btn-primary.active
   display none
 .slaask-button .slaask-button-image
   border-color #039be5 !important
+
+.slaask-messages .odd .conversation-text
+  margin-right: 30px
+  @media (max-width: 460px)
+    margin-right: 0
 
 #cookieChoiceInfo
   background #222 !important
@@ -1364,9 +1363,9 @@ fieldset[disabled] .btn-primary.active
   @media screen and (max-width: 768px)
     padding-right 0px
 
-.entries 
+.entries
   .entry
-    h3 
+    h3
       color #333
       font-weight 700
     .entry-header
@@ -1374,19 +1373,19 @@ fieldset[disabled] .btn-primary.active
         min-width 100%
     .entry-body
       background #fff
-      line-height 28px 
+      line-height 28px
       padding 1em 2.75em 1em 2.75em
       -webkit-box-shadow 0 1px 2px rgba(0, 0, 0, 0.1)
       -moz-box-shadow 0 1px 2px rgba(0, 0, 0, 0.1)
       box-shadow 0 1px 2px rgba(0, 0, 0, 0.1)
       p.date
         margin 0.5em 0 0 0
-        padding-bottom 0.5em 
+        padding-bottom 0.5em
         color #cfcfcf
         b
           color #757575
           font-style normal
-          font-weight 400   
+          font-weight 400
     footer
       margin-top 3em
       margin-bottom 2em
@@ -1397,7 +1396,7 @@ fieldset[disabled] .btn-primary.active
           display block
 .box.post
     background #fff
-    line-height 28px 
+    line-height 28px
     padding 2.75em 3.5em 2.75em 3.5em
     -webkit-box-shadow 0 1px 2px rgba(0, 0, 0, 0.1)
     -moz-box-shadow 0 1px 2px rgba(0, 0, 0, 0.1)
@@ -1408,18 +1407,18 @@ fieldset[disabled] .btn-primary.active
     padding 3px
   .title
     font-size 3em
-    font-weight 600 
+    font-weight 600
   .info
     color #cfcfcf
     b
       color #757575
-      font-weight 400    
-  .image 
+      font-weight 400
+  .image
     min-height 400px
     background-position center
     background-repeat no-repeat
     background-size 100%
-  .image.featured  
+  .image.featured
     // margin -2.75em -2em 2.75em -2em
     margin 1.5em 0em 2.75em 0em
     min-width 100%
@@ -1427,19 +1426,19 @@ fieldset[disabled] .btn-primary.active
     border 1px solid #ddd !important
     padding 5px
     min-height auto !important
-    
+
 .sidebar-right
   .entries
     background #fff
     -webkit-box-shadow 0 1px 2px rgba(0, 0, 0, 0.1)
     -moz-box-shadow 0 1px 2px rgba(0, 0, 0, 0.1)
     box-shadow 0 1px 2px rgba(0, 0, 0, 0.1)
-  .entry-header 
+  .entry-header
     background #03a9f4
-    padding 12px 35px 12px 25px 
+    padding 12px 35px 12px 25px
     h3
       color #fff !important
-      font-weight 600 
+      font-weight 600
       margin-top 5px
       margin-bottom 10px
       .glyph-icon
@@ -1453,14 +1452,14 @@ fieldset[disabled] .btn-primary.active
     padding 25px 15px
     h4
       font-weight 300
-      line-height 24px 
+      line-height 24px
       margin-top 0px
       @media screen and (max-width: 768px)
         font-size 24px
         line-height 28px
         margin 15px auto
-        margin-bottom 35px 
-  
+        margin-bottom 35px
+
     .entry
       margin-bottom 25px
       a

@@ -6,12 +6,12 @@ It's based on Brian Rinaldi's great [Static Site Samples](https://github.com/rem
 
 ## Setting up
 
-Make sure to install the [netlify-git-api](https://github.com/netlify/netlify-git-api) before you start.
+Make sure to install the [netlify-git-api](https://github.com/webriq/netlify-git-api) before you start.
 
 Then:
 
 ```bash
-git clone https://github.com/netlify-templates/roots-cms-example.git
+git clone https://github.com/webriq/webriq-blog.git
 cd roots-cms-example
 netlify-git-api users add
 netlify-git-api serve
