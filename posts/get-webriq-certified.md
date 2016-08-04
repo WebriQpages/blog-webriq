@@ -18,7 +18,7 @@ categories: ""
    ![boilerplate](/img/uploads/boiler.jpg)
 3. ### Create Slack Account On WebriQHQ
     Go to [**slackin.webriq.com**](http://slackin.webriq.com/) to create your account and start chatting with other developers or chat with one of WebriQ developers on the Q&amp;A channel
- ![slackin]( /img/uploads/createacctslack.jpg)
+    ![slackin](/img/uploads/createacctslack.jpg)
 4. ### Submit Domain
     Once you are done submit your domain(s) to [**getcertified@webriq.com**](mailto:getcertified@webriq.com)
     ![submitdomain](/img/uploads/submitdomain.jpg)
