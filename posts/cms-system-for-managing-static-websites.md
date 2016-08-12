@@ -1,7 +1,7 @@
 ---
 title: CMS system for managing Static Websites
 author: Jason
-banner: /img/uploads/completing-the-site-creation-wizard.png
+banner: /img/uploads/linking-your-website-with-github-account-.png
 shortdesc: "WebriQ CMS is a single page app that helps you create a clean and user-friendly User Interface for editing content stored in your GIT repository. "
 cmsUserSlug: ""
 date: 2016-08-12T00:00:00+08:00
@@ -72,7 +72,7 @@ Upon clicking the button, you will be redirected to a site creation wizard where
 
 ### Step 2: Completing the Site creation wizard
 <br>
-<img src="/img/uploads/webriq-slide.png  "></img>
+<img src="/img/uploads/completing-the-site-creation-wizard.png    "></img>
 
 Once you have selected the type, you will need to enter the site name for your website. The website lets you create a subdomain under the webriqs.com primary domain. On the next page, enter your details such as email address, and password to complete the process. Check “I agree to the terms and conditions” and hit next. 
 
