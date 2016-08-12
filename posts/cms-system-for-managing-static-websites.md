@@ -63,32 +63,32 @@ The admin and storefront elements of this CMS are optimized for tablet and mobil
 For a matter of fact, WebriQ provides a demo site to help you know how the platform works and what features it has. 
 
 ### Step 1: Creating an account
-
-<img src="#"></img>
+<br>
+<img src="/img/uploads/webriq-slide.png  "></img>
 
 In order to create a site on WebriQ Platform, you first need to create an account with WebriQ. Open the official website i.e. https://www.webriq.com/#page-top and click create a free account. 
 
 Upon clicking the button, you will be redirected to a site creation wizard where you will be asked to select the type of website you want to create i.e. page or shop. When you choose page option, you will be asked to choose a template. For a free account, there are 4 different templates to choose from i.e. WebriQ Business, WebriQ Portfolio, WebriQ Landing Page, WebriQ Starter Page. Click on the desired option and hit Next. 
 
 ### Step 2: Completing the Site creation wizard
-
-<img src="#"></img>
+<br>
+<img src="/img/uploads/webriq-slide.png  "></img>
 
 Once you have selected the type, you will need to enter the site name for your website. The website lets you create a subdomain under the webriqs.com primary domain. On the next page, enter your details such as email address, and password to complete the process. Check “I agree to the terms and conditions” and hit next. 
 
 Upon reaching confirmation page, you get confirmation of your subdomain and a request to click finish. 
 
 ### Step 3: Linking your website with GitHub Account
-
-<img src="#"></img>
+<br>
+<img src="/img/uploads/webriq-slide.png  "></img>
 
 On the next page, you will get a link “Go back to dashboard”. Click it and you will be redirected to your website's dashboard with plenty of options to manage your site and account. 
 
 In order to manage your website, you need a verified GitHub account and connect it with WebriQ account. 
 
 ### Step 4: Customize and manage your website
-
-<img src="#"></img>
+<br>
+<img src="/img/uploads/webriq-slide.png  "></img>
 
 Once you have linked your website to your GitHub account, you can now customize your website as per your needs, create/add new services and so much more. The dashboard lets you edit site settings such as adding a favicon, site logo, keywords, footer and main content. There are various other customization options available including image slider, adding testimonials, partners logo, featured work and more. 
 
