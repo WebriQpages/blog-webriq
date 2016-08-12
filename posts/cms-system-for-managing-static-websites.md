@@ -26,15 +26,15 @@ WebriQ CMS is available in two different options – WebriQpages and WebriQshops
 
 ## Features of WebriQ pages options
 
- ### SuperFast and Secure
+ #### SuperFast and Secure
 
 Unlike other single server based sites, websites created with this CMS option are served through a CDN which drastically reduces the latency, and offers 100% uptime and much faster downloads. Moreover, since all the websites are static and have no scripts that can be injected with malware or no database to connect to, it is pretty secure as compared to other platforms available out there. With WebriQ pages, service attacks denial, outdated scripts, and malware are all things of the past. 
 
-### Stunning UI/UX Designs
+#### Stunning UI/UX Designs
 
 Since the CMS does not require you to setup and create complex database structures for the site, the webmaster can be invested in building beautiful User interface designs that improve user experience on your site. Consequently, it improves user engagement on your website with reduced bounce rate. 
 
-### Complete Control
+#### Complete Control
 
 WebriQ Pages gives you complete control over all the elements of your site be it the content or code of your site. It allows you to make changes to the content or the code whenever necessary. 
 
