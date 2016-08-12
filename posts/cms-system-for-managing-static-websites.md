@@ -25,7 +25,7 @@ WebriQ CMS is available in two different options – WebriQpages and WebriQshops
 **WebriQ pages** option allows you to create, manage and publish a variety of different pages ideal for setting up blogs, personal portfolios, business sites or more.
 <br>
 ### Features of WebriQ pages options
-<br>
+
 #### SuperFast and Secure
 
 Unlike other single server based sites, websites created with this CMS option are served through a CDN which drastically reduces the latency, and offers 100% uptime and much faster downloads. Moreover, since all the websites are static and have no scripts that can be injected with malware or no database to connect to, it is pretty secure as compared to other platforms available out there. With WebriQ pages, service attacks denial, outdated scripts, and malware are all things of the past. 
@@ -41,7 +41,7 @@ WebriQ Pages gives you complete control over all the elements of your site be it
 **WebriQshops**, as the name suggests, allows you to create e-commerce stores to sell any type of products you want.
 <br>
 ### Features of WebriQshops:
-<br>
+
 #### API Enabled
 
 WebriQshops comes with a storefront and Admin API to enable external integrations. You can also make connections with Restful JSON API.
@@ -65,7 +65,7 @@ For a matter of fact, WebriQ provides a demo site to help you know how the platf
 
 ### Step 1: Creating an account
 
-<img src="  /img/uploads/creating-an-account.png  "></img>
+<img src="  /img/uploads/creating-an-account.png  ">
 <br>
 In order to create a site on WebriQ Platform, you first need to create an account with WebriQ. Open the official website i.e. https://www.webriq.com/#page-top and click create a free account. 
 
@@ -73,7 +73,7 @@ Upon clicking the button, you will be redirected to a site creation wizard where
 
 ### Step 2: Completing the Site creation wizard
 
-<img src="/img/uploads/completing-the-site-creation-wizard.png    "></img>
+<img src="/img/uploads/completing-the-site-creation-wizard.png    ">
 <br>
 Once you have selected the type, you will need to enter the site name for your website. The website lets you create a subdomain under the webriqs.com primary domain. On the next page, enter your details such as email address, and password to complete the process. Check “I agree to the terms and conditions” and hit next. 
 
@@ -81,7 +81,7 @@ Upon reaching confirmation page, you get confirmation of your subdomain and a re
 
 ### Step 3: Linking your website with GitHub Account
 
-<img src="/img/uploads/linking-your-website-with-github-account-.png    "></img>
+<img src="/img/uploads/linking-your-website-with-github-account-.png    ">
 <br>
 On the next page, you will get a link “Go back to dashboard”. Click it and you will be redirected to your website's dashboard with plenty of options to manage your site and account. 
 
@@ -89,7 +89,7 @@ In order to manage your website, you need a verified GitHub account and connect 
 
 ### Step 4: Customize and manage your website
 
-<img src="/img/uploads/customize-and-manage-your-website.png"></img>
+<img src="/img/uploads/customize-and-manage-your-website.png">
 <br>
 Once you have linked your website to your GitHub account, you can now customize your website as per your needs, create/add new services and so much more. The dashboard lets you edit site settings such as adding a favicon, site logo, keywords, footer and main content. There are various other customization options available including image slider, adding testimonials, partners logo, featured work and more. 
 
