@@ -88,7 +88,7 @@ In order to manage your website, you need a verified GitHub account and connect 
 
 ### Step 4: Customize and manage your website
 <br>
-<img src="/img/uploads/webriq-slide.png  "></img>
+<img src="/img/uploads/customize-and-manage-your-website.png"></img>
 
 Once you have linked your website to your GitHub account, you can now customize your website as per your needs, create/add new services and so much more. The dashboard lets you edit site settings such as adding a favicon, site logo, keywords, footer and main content. There are various other customization options available including image slider, adding testimonials, partners logo, featured work and more. 
 
