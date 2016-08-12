@@ -80,7 +80,7 @@ Upon reaching confirmation page, you get confirmation of your subdomain and a re
 
 ### Step 3: Linking your website with GitHub Account
 <br>
-<img src="/img/uploads/webriq-slide.png  "></img>
+<img src="/img/uploads/linking-your-website-with-github-account-.png    "></img>
 
 On the next page, you will get a link “Go back to dashboard”. Click it and you will be redirected to your website's dashboard with plenty of options to manage your site and account. 
 
