@@ -25,7 +25,7 @@ WebriQ CMS is available in two different options – WebriQpages and WebriQshops
 **WebriQ pages** option allows you to create, manage and publish a variety of different pages ideal for setting up blogs, personal portfolios, business sites or more.
 <br>
 ### Features of WebriQ pages options
-
+<p></p>
 #### SuperFast and Secure
 
 Unlike other single server based sites, websites created with this CMS option are served through a CDN which drastically reduces the latency, and offers 100% uptime and much faster downloads. Moreover, since all the websites are static and have no scripts that can be injected with malware or no database to connect to, it is pretty secure as compared to other platforms available out there. With WebriQ pages, service attacks denial, outdated scripts, and malware are all things of the past. 
@@ -41,7 +41,7 @@ WebriQ Pages gives you complete control over all the elements of your site be it
 **WebriQshops**, as the name suggests, allows you to create e-commerce stores to sell any type of products you want.
 <br>
 ### Features of WebriQshops:
-
+<p></p>
 #### API Enabled
 
 WebriQshops comes with a storefront and Admin API to enable external integrations. You can also make connections with Restful JSON API.
@@ -58,7 +58,7 @@ The shopping cart application uses optimal computer resources and performs extre
 
 The admin and storefront elements of this CMS are optimized for tablet and mobile devices along with various other screen sizes available out there.
 <br>
-###  How to build reliable, secure and scalable websites with the WebriQ Platform?
+##  How to build reliable, secure and scalable websites with the WebriQ Platform?
 
 For a matter of fact, WebriQ provides a demo site to help you know how the platform works and what features it has. 
 
