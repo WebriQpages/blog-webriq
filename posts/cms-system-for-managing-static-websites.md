@@ -1,7 +1,7 @@
 ---
 title: CMS system for managing Static Websites
 author: Jason
-banner: /img/uploads/creating-an-account.png
+banner: /img/uploads/completing-the-site-creation-wizard.png
 shortdesc: "WebriQ CMS is a single page app that helps you create a clean and user-friendly User Interface for editing content stored in your GIT repository. "
 cmsUserSlug: ""
 date: 2016-08-12T00:00:00+08:00
@@ -64,7 +64,7 @@ For a matter of fact, WebriQ provides a demo site to help you know how the platf
 
 ### Step 1: Creating an account
 <br>
-<img src="/img/uploads/webriq-slide.png  "></img>
+<img src="  /img/uploads/creating-an-account.png  "></img>
 
 In order to create a site on WebriQ Platform, you first need to create an account with WebriQ. Open the official website i.e. https://www.webriq.com/#page-top and click create a free account. 
 
