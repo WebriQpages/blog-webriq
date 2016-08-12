@@ -1,7 +1,7 @@
 ---
 title: CMS system for managing Static Websites
 author: Jason
-banner: /img/uploads/webriq-slide.png
+banner: /img/uploads/creating-an-account.png
 shortdesc: "WebriQ CMS is a single page app that helps you create a clean and user-friendly User Interface for editing content stored in your GIT repository. "
 cmsUserSlug: ""
 date: 2016-08-12T00:00:00+08:00
