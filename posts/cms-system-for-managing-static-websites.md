@@ -22,43 +22,43 @@ In order to get started, you need to first setup a YAML config to define the con
 
 WebriQ CMS is available in two different options – WebriQpages and WebriQshops 
 
-**WebriQ pages**option allows you to create, manage and publish a variety of different pages ideal for setting up blogs, personal portfolios, business sites or more.
+**WebriQ pages** option allows you to create, manage and publish a variety of different pages ideal for setting up blogs, personal portfolios, business sites or more.
+<br>
+### Features of WebriQ pages options
 
-## Features of WebriQ pages options
-
- ### SuperFast and Secure
+ #### SuperFast and Secure
 
 Unlike other single server based sites, websites created with this CMS option are served through a CDN which drastically reduces the latency, and offers 100% uptime and much faster downloads. Moreover, since all the websites are static and have no scripts that can be injected with malware or no database to connect to, it is pretty secure as compared to other platforms available out there. With WebriQ pages, service attacks denial, outdated scripts, and malware are all things of the past. 
 
-### Stunning UI/UX Designs
+#### Stunning UI/UX Designs
 
 Since the CMS does not require you to setup and create complex database structures for the site, the webmaster can be invested in building beautiful User interface designs that improve user experience on your site. Consequently, it improves user engagement on your website with reduced bounce rate. 
 
-### Complete Control
+#### Complete Control
 
 WebriQ Pages gives you complete control over all the elements of your site be it the content or code of your site. It allows you to make changes to the content or the code whenever necessary. 
 
 **WebriQshops**, as the name suggests, allows you to create e-commerce stores to sell any type of products you want.
+<br>
+### Features of WebriQshops:
 
-## Features of WebriQshops:
-
-### API Enabled
+#### API Enabled
 
 WebriQshops comes with a storefront and Admin API to enable external integrations. You can also make connections with Restful JSON API.
 
-### Variety of shipping engines and payments
+#### Variety of shipping engines and payments
 
 It also comes integrated with a huge range of shipping and payment methods into the standard shopping cart application.
 
-### Fast and Secure
+#### Fast and Secure
 
 The shopping cart application uses optimal computer resources and performs extremely fast. Being inline with PCI Compliance and best industry practices, WebriQ Shop is a very secure solution for businesses looking to establish their online presence.
 
-### 100% Responsive Solution
+#### 100% Responsive Solution
 
 The admin and storefront elements of this CMS are optimized for tablet and mobile devices along with various other screen sizes available out there.
 
-## **How to build reliable, secure and scalable websites with the WebriQ Platform?**
+##  How to build reliable, secure and scalable websites with the WebriQ Platform?
 
 For a matter of fact, WebriQ provides a demo site to help you know how the platform works and what features it has. 
 
