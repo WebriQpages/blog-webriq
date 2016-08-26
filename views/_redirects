@@ -1,0 +1,2 @@
+/ https://www.webriq.com/blog 301
+/posts/*  https://www.webriq.com/posts/:splat  301

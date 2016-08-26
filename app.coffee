@@ -14,7 +14,7 @@ path         = require 'path'
 monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]
 
 module.exports =
-  ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf', '**/index2.*', '**/main.*', '**/post2.*']
+  ignores: ['readme.md', '**/layout.*', '**/includes/_*', '.gitignore', 'ship.*conf', '**/index2.*', '**/main.*', '**/post2.*']
 
   locals:
     postExcerpt: (html, length, ellipsis) ->
